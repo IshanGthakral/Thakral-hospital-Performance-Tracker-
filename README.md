@@ -55,5 +55,5 @@ This Power BI project delivers a comprehensive Leads Flow Dashboard for **THAKRA
 ## Owner :
 **Author:** *[ISHAN THAKRAL]*  
 **Email:** *[ishanthakral5@gmail.com]*  
-**LinkedIn:** *[ linkedin.com/in/ishanthakral/]*
+**LinkedIn:** *[https://www.linkedin.com/in/ishanthakral/]*
 
